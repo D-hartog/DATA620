@@ -1,2 +1,2 @@
-# DATA620-
+# DATA620
 Data 620 - CUNY SPS
