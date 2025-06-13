@@ -1,0 +1,19 @@
+Folder contains files for Assignment 2
+# DATA 620 Web Analytics
+# Assignment 2 - Graph Visualization
+**Gillian McGovern, Dhanya Nair, Dirk Hartog**
+
+Instructions: 
+
+Load a graph database of your choosing from a text file or other source.  If you take a large network dataset from the web (such as from Stanford Large Network Dataset Collection), please feel free at this point to load just a small subset of the nodes and edges.
+
+Create basic analysis on the graph, including 
+the graph’s diameter, and at least one other metric of your choosing.  
+
+You may either code the functions by hand (to build your intuition and insight), or use functions in an existing package. 
+
+Use a visualization tool of your choice to display information. 
+Use NetworkX directly, pyviz or another tool (Gephi or 
+Neo4j) but you should get used to using the Python toolset. 
+
+Please record a short video (~ 5 minutes), and submit a link to the video in advance of our meet-up. You will be showing your assignment in the meet-up but it is always useful to have a recording.
